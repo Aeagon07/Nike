@@ -8,34 +8,28 @@ This project is a **UI/UX redesign** for Nike’s online presence, focusing on e
 
 ### 🔥 Features
 
-- 🖼️ Eye-catching landing page
-- ⚡ Smooth transitions and animations
-- 📱 Mobile responsive layout
-- 🎨 Brand-themed color palette and typography
-- 🧭 Intuitive navigation
-- 🛒 Interactive product cards (hover effects, CTA)
-- 🌙 Optional dark mode toggle (if applicable)
+- 🖼️ Eye-catching landing page  
+- ⚡ Smooth transitions and animations  
+- 📱 Mobile responsive layout  
+- 🎨 Brand-themed color palette and typography  
+- 🧭 Intuitive navigation  
+- 🛒 Interactive product cards (hover effects, CTA)  
+- 🌙 Optional dark mode toggle (if applicable)  
 
 ## 🛠️ Tech Stack
 
--**React.js** – Core frontend library.
-
--**JavaScript** – Scripting language.
-
--**HTML5** – Markup structure (via JSX).
-
--**Tailwind CSS** – Styling.
-
--**React Router** – For page navigation.
-
--**Vite / Create React App** – Project bundler.
+- **React.js** – Core frontend library  
+- **JavaScript** – Scripting language  
+- **HTML5** – Markup structure (via JSX)  
+- **Tailwind CSS** – Styling  
+- **React Router** – For page navigation  
+- **Vite / Create React App** – Project bundler  
 
 ## 📸 Screenshots
 
 | Landing Page | Mobile View |
 |--------------|-------------|
 | ![Landing Page](./screenshots/Landing.png) | ![Mobile View](./screenshots/Mobile.png) |
-
 
 ## 🧠 Inspiration
 
@@ -46,51 +40,47 @@ Nike’s branding is bold and dynamic. This design captures that spirit while en
 - [ ] Add more product categories  
 - [ ] Integrate real product data (API)  
 - [ ] Add cart functionality  
-- [ ] Dark mode support
+- [ ] Dark mode support  
 
-
-🤸 Quick Start
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+### Prerequisites
 
 Make sure you have the following installed on your machine:
+- Git  
+- Node.js  
+- npm (Node Package Manager)  
 
-Git
+### Cloning the Repository
 
-Node.js
-
-npm (Node Package Manager)
-
-
-Cloning the Repository
-
+```bash
 git clone https://github.com/Aegon07/Nike.git
-
 cd nike
+```
 
-Installation
+### Installation
 
 Install the project dependencies using npm:
 
+```bash
 npm install
+```
 
-Running the Project
+### Running the Project
 
+```bash
 npm start
+```
 
-Open http://localhost:5173 in your browser to view the project.
+Then open your browser and visit:  
+👉 `http://localhost:5173` *(or `http://localhost:3000` if using CRA)*
 
 
 ## 📬 Contact
 
-Made ❤️ by **Rushikesh Godase**  
-📧 [godaserushikesh07@gmail.com]  
-🔗 [https://www.linkedin.com/in/rushikesh-vijay-godase07]
-
----
-
-
-
-
+Made with ❤️ by **Rushikesh Godase**  
+📧 [godaserushikesh07@gmail.com](mailto:godaserushikesh07@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-vijay-godase07)
+```
