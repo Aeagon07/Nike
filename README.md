@@ -19,10 +19,15 @@ This project is a **UI/UX redesign** for Nike’s online presence, focusing on e
 ## 🛠️ Tech Stack
 
 -**React.js** – Core frontend library.
+
 -**JavaScript** – Scripting language.
+
 -**HTML5** – Markup structure (via JSX).
+
 -**Tailwind CSS** – Styling.
+
 -**React Router** – For page navigation.
+
 -**Vite / Create React App** – Project bundler.
 
 ## 📸 Screenshots
