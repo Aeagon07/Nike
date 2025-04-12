@@ -29,6 +29,26 @@ This project is a **UI/UX redesign** for Nike’s online presence, focusing on e
 |--------------|-------------|
 | ![Landing Page](./screenshots/Landing.png) | ![Mobile View](./screenshots/Mobile.png) |
 
-## 📂 Folder Structure
+
+## 🧠 Inspiration
+
+Nike’s branding is bold and dynamic. This design captures that spirit while ensuring ease of use and fluidity in navigation. The goal was to create a design that **feels powerful yet minimal**.
+
+## ✅ To-Do / Improvements
+
+- [ ] Add more product categories  
+- [ ] Integrate real product data (API)  
+- [ ] Add cart functionality  
+- [ ] Dark mode support
+
+## 📬 Contact
+
+Made ❤️ by **Rushikesh Godase**  
+📧 [godaserushikesh07@gmail.com]  
+🔗 [https://www.linkedin.com/in/rushikesh-vijay-godase07]
+
+---
+
+
 
 
